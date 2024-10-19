@@ -1,3 +1,4 @@
+```
 Autotrader for mIRC and cbftp/FTPRush with the following functions:
 
 ➡️ TVMaze and IMDb check via APIs
@@ -665,3 +666,4 @@ presets
 2.2 - 2006-12-24 
 
 1.4 - 2006-08-09 (Click Trader)
+```
